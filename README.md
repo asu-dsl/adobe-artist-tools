@@ -53,7 +53,9 @@ These export tools are JavaScript-based extensions designed to streamline the ex
 1. Open Adobe Photoshop.
 2. Load your project file.
 3. Run the `photoshop_export.js` script via the File > Scripts menu.
-4. Configure the export settings as prompted.
+4. Configure export settings
+- Note that the unity and project asset folder locations require only the location of the main folder. In addition, folders that don't exist (e.g. a folder unique to the screen) will be automatically created.
+- Files exported to unity will automatically have "T_UI_" added
 
 ## Installation
 
@@ -70,6 +72,9 @@ These export tools are JavaScript-based extensions designed to streamline the ex
 2. Navigate to **File > Scripts**.
 3. Select the appropriate export tool script.
 4. Follow the prompts to customize and execute the export.
+- Note that the unity and project asset folder locations require only the location of the main folder. In addition, folders that don't exist (e.g. a folder unique to the screen) will be automatically created.
+- Files exported to unity will automatically have "T_UI_" added
+- Exported artboards will all have the same filename, except with their artboard number appended.
 
 ## Troubleshooting
 
