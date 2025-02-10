@@ -1,6 +1,6 @@
-# Export Tools README
+# Adobe Export Tools README
 
-This README provides instructions and details for two export tools designed for Adobe Illustrator and Adobe Photoshop.
+This README provides instructions and details for the Adobe Illustrator and Adobe Photoshop export tools.
 
 ## Table of Contents
 
